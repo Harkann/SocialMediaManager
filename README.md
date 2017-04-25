@@ -39,9 +39,9 @@ Planning :
   ```
 
 # Credentials : 
-You need to fill the credential.py with some login informations (you get them from your apps on social media)
-	- Tutorial here for twitter :  http://python-twitter.readthedocs.io/en/latest/getting_started.html
-	- Here for facebook : http://stackoverflow.com/questions/17197970/facebook-permanent-page-access-token
+You need to fill the credential.py with some login informations (you get them from your apps on social media) :
+   - Tutorial here for twitter :  http://python-twitter.readthedocs.io/en/latest/getting_started.html
+   - Here for facebook : http://stackoverflow.com/questions/17197970/facebook-permanent-page-access-token
 
 
 
