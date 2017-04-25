@@ -1,0 +1,6 @@
+*.swp
+src
+__pycache__
+
+
+credentials.py
